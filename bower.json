@@ -1,0 +1,20 @@
+{
+  "name": "slotgame",
+  "version": "0.1.0",
+  "authors": [
+    "jollzy <jollzy@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi": "~3.0.6",
+    "soundmanager2": "*"
+  }
+}

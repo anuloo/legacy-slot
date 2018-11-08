@@ -1,0 +1,12 @@
+{
+  "images":{
+    "gameBackground": "images/background.jpg",
+    "spin": "images/spin_button.png",
+    "stop": "images/stop_button.png"
+  },
+  "spriteSheets": {
+    "symbols": "images/symbolsc.json",
+    "symbolsc": "images/symbols.json",
+    "anim.symbol.a": "images/anim.symbol.s.json"
+  }
+}
